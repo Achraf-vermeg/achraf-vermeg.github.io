@@ -1,0 +1,198 @@
+[
+  {
+    "title": "Inbound",
+    "pic": "1240",
+    "metric": "1.2",
+    "charts": [
+      {
+        "label": "Corp. Actions",
+        "style": "text-danger",
+        "data": {
+          "labels": ["A", "B", "C", "D"],
+          "datasets": [
+            {
+              "data": [630, 56, 96, 185],
+              "backgroundColor": ["#00C851", "#ff4444", "#33b5e5", "#e0e0e0"]
+            }
+          ]
+        }
+      },
+      {
+        "label": "Settlement",
+        "style": "text-dark",
+        "data": {
+          "labels": ["A", "B", "C", "D"],
+          "datasets": [
+            {
+              "data": [54, 84, 10, 881],
+              "backgroundColor": ["#00C851", "#ff4444", "#33b5e5", "#e0e0e0"]
+            }
+          ]
+        }
+      },
+      {
+        "label": "Common",
+        "style": "text-dark",
+        "data": {
+          "labels": ["A", "B", "C", "D"],
+          "datasets": [
+            {
+              "data": [882, 71, 72, 877],
+              "backgroundColor": ["#00C851", "#ff4444", "#33b5e5", "#e0e0e0"]
+            }
+          ]
+        }
+      },
+      {
+        "label": "Tax Reclaim",
+        "style": "text-danger",
+        "data": {
+          "labels": ["A", "B", "C", "D"],
+          "datasets": [
+            {
+              "data": [157, 1, 1, 673],
+              "backgroundColor": ["#00C851", "#ff4444", "#33b5e5", "#e0e0e0"]
+            }
+          ]
+        }
+      },
+      {
+        "label": "Iberclear",
+        "style": "text-danger",
+        "data": {
+          "labels": ["A", "B", "C", "D"],
+          "datasets": [
+            {
+              "data": [1061, 7, 91, 6],
+              "backgroundColor": ["#00C851", "#ff4444", "#33b5e5", "#e0e0e0"]
+            }
+          ]
+        }
+      },
+      {
+        "label": "Bloomberg",
+        "style": "text-danger",
+        "data": {
+          "labels": ["A", "B", "C", "D"],
+          "datasets": [
+            {
+              "data": [157, 69, 84, 3],
+              "backgroundColor": ["#00C851", "#ff4444", "#33b5e5", "#e0e0e0"]
+            }
+          ]
+        }
+      },
+      {
+        "label": "Broker",
+        "style": "text-dark",
+        "data": {
+          "labels": ["A", "B", "C", "D"],
+          "datasets": [
+            {
+              "data": [64, 8, 51, 864],
+              "backgroundColor": ["#00C851", "#ff4444", "#33b5e5", "#e0e0e0"]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "title": "Outbound",
+    "pic": "890",
+    "metric": "2.5",
+    "charts": [
+      {
+        "label": "Corp. Actions",
+        "style": "text-danger",
+        "data": {
+          "labels": ["A", "B", "C", "D"],
+          "datasets": [
+            {
+              "data": [1065, 63, 51, 4],
+              "backgroundColor": ["#00C851", "#ff4444", "#33b5e5", "#e0e0e0"]
+            }
+          ]
+        }
+      },
+      {
+        "label": "Settlement",
+        "style": "text-dark",
+        "data": {
+          "labels": ["A", "B", "C", "D"],
+          "datasets": [
+            {
+              "data": [667, 8, 80, 853],
+              "backgroundColor": ["#00C851", "#ff4444", "#33b5e5", "#e0e0e0"]
+            }
+          ]
+        }
+      },
+      {
+        "label": "Common",
+        "style": "text-danger",
+        "data": {
+          "labels": ["A", "B", "C", "D"],
+          "datasets": [
+            {
+              "data": [8, 85, 61, 873],
+              "backgroundColor": ["#00C851", "#ff4444", "#33b5e5", "#e0e0e0"]
+            }
+          ]
+        }
+      },
+      {
+        "label": "Tax Reclaim",
+        "style": "text-danger",
+        "data": {
+          "labels": ["A", "B", "C", "D"],
+          "datasets": [
+            {
+              "data": [1081, 76, 80, 7],
+              "backgroundColor": ["#00C851", "#ff4444", "#33b5e5", "#e0e0e0"]
+            }
+          ]
+        }
+      },
+      {
+        "label": "Iberclear",
+        "style": "text-dark",
+        "data": {
+          "labels": ["A", "B", "C", "D"],
+          "datasets": [
+            {
+              "data": [572, 0, 0, 4],
+              "backgroundColor": ["#00C851", "#ff4444", "#33b5e5", "#e0e0e0"]
+            }
+          ]
+        }
+      },
+      {
+        "label": "Bloomberg",
+        "style": "text-dark",
+        "data": {
+          "labels": ["A", "B", "C", "D"],
+          "datasets": [
+            {
+              "data": [71, 8, 153, 983],
+              "backgroundColor": ["#00C851", "#ff4444", "#33b5e5", "#e0e0e0"]
+            }
+          ]
+        }
+      },
+      {
+        "label": "Broker",
+        "style": "text-danger",
+        "data": {
+          "labels": ["A", "B", "C", "D"],
+          "datasets": [
+            {
+              "data": [1, 8, 510, 1009],
+              "backgroundColor": ["#00C851", "#ff4444", "#33b5e5", "#e0e0e0"]
+            }
+          ]
+        }
+      }
+    ]
+  }
+]
