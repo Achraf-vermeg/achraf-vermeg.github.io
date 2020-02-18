@@ -1,0 +1,52 @@
+[
+  {
+    "type": "bar",
+    "labels": [
+      "Jan-21",
+      "Feb-21",
+      "Mar-21",
+      "Apr-21",
+      "May-21",
+      "Jun-21",
+      "Jul-21",
+      "Aug-21",
+      "Sep-21",
+      "Oct-21",
+      "Nov-21",
+      "Dec-21",
+      "Jan-21",
+      "Feb-21",
+      "Mar-21",
+      "Apr-21"
+    ],
+    "datasets": [
+      {
+        "type": "line",
+        "data": [8.5, 8.4, 8.3, 8.2, 8.1, 8, 7.9, 7.8, 7.6, 7.5, 7.4, 7.3, 7.2, 7.1, 7, 6.9],
+        "order": 2,
+        "backgroundColor": "transparent"
+      },
+      {
+        "backgroundColor": "#007ad9",
+        "data": [8.7, 6.3, 5.4, 7.9, 4.3, 6.6, 9.4, 9.6, 9.8, 6.1, 5.5, 8.1, 7.2, 6.1, 4.2, 2.1],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "labels": [
+      ["MegaCM", "Valuation"],
+      ["MegaCor", "Notification"],
+      ["Mega", "Common", "Invoicing", " / Billing"],
+      ["Mega", "Common", "Purge"],
+      ["Mega", "Common", "Asset ", "Reconciliation"],
+      ["MegaCor-", "Entitlement", "calculation"]
+    ],
+    "datasets": [
+      {
+        "backgroundColor": ["#dc3545", "#ffc107", "#ffc107", "#007ad9", "#007ad9", "#007ad9"],
+        "data": [32, 29, 22, 12, 10, 7]
+      }
+    ]
+  }
+]

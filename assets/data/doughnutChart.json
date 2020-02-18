@@ -1,0 +1,9 @@
+{
+  "labels": ["Not connected", "Active", "IDLE"],
+  "datasets": [
+    {
+      "data": [2740, 934, 460],
+      "backgroundColor": ["#007ad9", "#28a745", "#868e96"]
+    }
+  ]
+}
